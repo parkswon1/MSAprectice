@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/parkswon1/MSAprectice.git
