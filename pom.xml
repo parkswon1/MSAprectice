@@ -9,7 +9,7 @@
        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.msa</groupId>
-    <artifactId>Rental</artifactId>
+    <artifactId>RentalMS</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Rental</name>
     <description>Rental</description>
