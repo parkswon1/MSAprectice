@@ -75,7 +75,8 @@ public class RentalCard {
     private void calcateLateFee(RentalItem rentalItem, LocalDate returnDate) {
         if(returnDate.compareTo(rentalItem.getOverdueDate()) > 0){
             int point = Period.between(rentalItem.getOverdueDate(), returnDate).getDays() * 10;
-            this.lateFee.addPoint((long) point);
+            LateFee addPoint = this.lateFee.addPoint((long) point);
+            this.lateFee.setPoint(addPoint.getPoint());
         }
     }
 
