@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d533081c-1a26-4f75-9eea-52d0ed6aa107" name="Changes" comment="오류 수정">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalMS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/config-client">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/hello-boot">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/hello-boot">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;parkswon1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/parkswon1/MSAprectice.git&quot;,
+    &quot;accountId&quot;: &quot;b0b83da6-09d7-4e98-9065-bed423449e33&quot;
+  }
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;configuredContexts&quot;: [
+    {
+      &quot;name&quot;: &quot;docker-desktop&quot;,
+      &quot;kubeConfigUrl&quot;: &quot;file://C:/Users/parks/.kube/config&quot;,
+      &quot;currentNamespace&quot;: &quot;default&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2em156eIptgk4SxQOS2Pn1wqCMQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IDName.executor": "Run",
+    "Application.RentalCardNo.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build config-client.executor": "Run",
+    "Gradle.Build config-server.executor": "Run",
+    "Gradle.Build hello-boot.executor": "Run",
+    "Gradle.UserServiceLogicTest.registerTest.executor": "Run",
+    "Gradle.hello-boot [:User.main()].executor": "Run",
+    "Gradle.hello-boot.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "Spring Boot.ConfigClientApplication.executor": "Run",
+    "Spring Boot.ConfigServer.executor": "Run",
+    "Spring Boot.ConfigServerApplication.executor": "Run",
+    "Spring Boot.RentalApplication.executor": "Debug",
+    "Spring Boot.UserRestApp.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/parks/IdeaProjects/MSAprectice/RentalMS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "spring",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.msa.rental.domain.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jumtospring.rest.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RentalApplication">
+    <configuration name="IDName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msa.rental.domain.model.vo.IDName" />
+      <module name="RentalMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msa.rental.domain.model.vo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalCardNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msa.rental.domain.model.vo.RentalCardNo" />
+      <module name="RentalMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msa.rental.domain.model.vo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="RentalMS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msa.rental.RentalApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msa.rental.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RentalApplication" />
+        <item itemvalue="Application.IDName" />
+        <item itemvalue="Application.RentalCardNo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.38" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.38" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d533081c-1a26-4f75-9eea-52d0ed6aa107" name="Changes" comment="" />
+      <created>1712494754379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712494754379</updated>
+      <workItem from="1712494755544" duration="2738000" />
+      <workItem from="1712534241296" duration="919000" />
+      <workItem from="1712554142014" duration="609000" />
+      <workItem from="1712561251057" duration="1199000" />
+      <workItem from="1712574416676" duration="652000" />
+      <workItem from="1712630609395" duration="1813000" />
+      <workItem from="1712649554971" duration="5000" />
+      <workItem from="1713094455080" duration="5079000" />
+      <workItem from="1713139312445" duration="181000" />
+      <workItem from="1713182696375" duration="600000" />
+      <workItem from="1713249093543" duration="19000" />
+      <workItem from="1713875503123" duration="11000" />
+      <workItem from="1715262847489" duration="37000" />
+      <workItem from="1716291353686" duration="1765000" />
+      <workItem from="1716298245993" duration="388000" />
+      <workItem from="1716336003015" duration="230000" />
+      <workItem from="1716360892557" duration="1418000" />
+      <workItem from="1716366969630" duration="7000" />
+      <workItem from="1716388369301" duration="839000" />
+      <workItem from="1716422896594" duration="836000" />
+      <workItem from="1716617065596" duration="1769000" />
+      <workItem from="1722071159144" duration="204000" />
+      <workItem from="1722071510189" duration="781000" />
+      <workItem from="1722072817472" duration="12869000" />
+      <workItem from="1722175591057" duration="300000" />
+    </task>
+    <task id="LOCAL-00001" summary="자원 생성">
+      <option name="closed" value="true" />
+      <created>1712497242468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712497242468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="junit test">
+      <option name="closed" value="true" />
+      <created>1713096358751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713096358751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="인섬니아 단위 테스트">
+      <option name="closed" value="true" />
+      <created>1713099711828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713099711828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="msa">
+      <option name="closed" value="true" />
+      <created>1716292437393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716292437393</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yml">
+      <option name="closed" value="true" />
+      <created>1716292637067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716292637067</updated>
+    </task>
+    <task id="LOCAL-00006" summary="파일 삭제">
+      <option name="closed" value="true" />
+      <created>1722071224318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722071224318</updated>
+    </task>
+    <task id="LOCAL-00007" summary="파일 삭제">
+      <option name="closed" value="true" />
+      <created>1722072833025</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722072833025</updated>
+    </task>
+    <task id="LOCAL-00008" summary="기본 설정 변경 및 maven 연결">
+      <option name="closed" value="true" />
+      <created>1722073615547</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722073615547</updated>
+    </task>
+    <task id="LOCAL-00009" summary="반납 대여 및 관련 설정, 엔티티, 로직">
+      <option name="closed" value="true" />
+      <created>1722093735609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722093735609</updated>
+    </task>
+    <task id="LOCAL-00010" summary="오류 수정">
+      <option name="closed" value="true" />
+      <created>1722097055284</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722097055284</updated>
+    </task>
+    <task id="LOCAL-00011" summary="오류 수정">
+      <option name="closed" value="true" />
+      <created>1722097108879</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722097108879</updated>
+    </task>
+    <task id="LOCAL-00012" summary="오류 수정">
+      <option name="closed" value="true" />
+      <created>1722097600828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722097600828</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자원 생성" />
+    <MESSAGE value="junit test" />
+    <MESSAGE value="인섬니아 단위 테스트" />
+    <MESSAGE value="msa" />
+    <MESSAGE value="yml" />
+    <MESSAGE value="파일 삭제" />
+    <MESSAGE value="기본 설정 변경 및 maven 연결" />
+    <MESSAGE value="반납 대여 및 관련 설정, 엔티티, 로직" />
+    <MESSAGE value="오류 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="오류 수정" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
